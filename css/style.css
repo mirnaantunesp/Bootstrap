@@ -1,0 +1,21 @@
+.body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: rosybrown;
+}
+.WTF{
+    background-color: burlywood;
+    color: greenyellow;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.WERK{
+    background-color: blueviolet;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
